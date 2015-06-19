@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="Here goes web description">
-    <meta name="author" content="@silvestrevivo">
+    <meta name="author" content="@silvestrevivo, uonsite.nl">
     <meta keywords="here go words for SEO-Goole">
     <meta name="generator" content="Bootstrap3.3.4">
 
@@ -20,6 +20,7 @@
 
     <!-- Custom CSS -->
     <link href="../dist/css/sb-admin-2.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/soeter.css">
 
     <!-- Custom Fonts -->
     <link href="../bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -261,101 +262,44 @@
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
                         <li class="sidebar-search">
-                            <div class="input-group custom-search-form">
+                            <h4>Adres</h4>
+                            <address>
+                                <p>Medisch Centrum Oud Voorburg<br>Raadhuisstraat 49<br>
+                                2271 DG Voorburg</p>
+                            </address>
+                            <!-- <div class="input-group custom-search-form">
                                 <input type="text" class="form-control" placeholder="Search...">
                                 <span class="input-group-btn">
                                     <button class="btn btn-default" type="button">
                                         <i class="fa fa-search"></i>
                                     </button>
                                 </span>
-                            </div>
+                            </div> -->
                             <!-- /input-group -->
                         </li>
                         <li>
                             <a href="index.html"><i class="fa fa-dashboard fa-plus-square"></i> Praktijk Info</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Medewerkers<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="flot.html">Medewerker 01</a>
-                                </li>
-                                <li>
-                                    <a href="morris.html">Medewerker 02</a>
-                                </li>
-                            </ul>
+                            <a href="medewerkers.html"><i class="fa fa-bar-chart-o fa-fw"></i> Medewerkers</a>
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="tables.html"><i class="fa fa-table fa-fw"></i> Route</a>
+                            <a href="route.html"><i class="fa fa-table fa-fw"></i> Route</a>
                         </li>
                         <li>
-                            <a href="forms.html"><i class="fa fa-edit fa-hart"></i> Inschrijven Praktijk</a>
+                            <a href="inschrijven.html"><i class="fa fa-edit fa-hart"></i> Inschrijven nieuwe patient</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="panels-wells.html">Panels and Wells</a>
-                                </li>
-                                <li>
-                                    <a href="buttons.html">Buttons</a>
-                                </li>
-                                <li>
-                                    <a href="notifications.html">Notifications</a>
-                                </li>
-                                <li>
-                                    <a href="typography.html">Typography</a>
-                                </li>
-                                <li>
-                                    <a href="icons.html"> Icons</a>
-                                </li>
-                                <li>
-                                    <a href="grid.html">Grid</a>
-                                </li>
-                            </ul>
+                            <a href="thuisarts.html"><i class="fa fa-wrench fa-fw"></i> thuisarts.nl</a>
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-sitemap fa-fw"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="#">Second Level Item</a>
-                                </li>
-                                <li>
-                                    <a href="#">Second Level Item</a>
-                                </li>
-                                <li>
-                                    <a href="#">Third Level <span class="fa arrow"></span></a>
-                                    <ul class="nav nav-third-level">
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                    </ul>
-                                    <!-- /.nav-third-level -->
-                                </li>
-                            </ul>
+                            <a href="geschiedenis.html"><i class="fa fa-sitemap fa-fw"></i> geschiedenis</a>
                             <!-- /.nav-second-level -->
                         </li>
                         <li class="active">
-                            <a href="#"><i class="fa fa-files-o fa-fw"></i> Sample Pages<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a class="active" href="blank.html">Blank Page</a>
-                                </li>
-                                <li>
-                                    <a href="login.html">Login Page</a>
-                                </li>
-                            </ul>
+                            <a href="stempels.html"><i class="fa fa-table fa-fw"></i> Stempels</a>
                             <!-- /.nav-second-level -->
                         </li>
                     </ul>
@@ -371,13 +315,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Medewerkers</h1>
-                        <p>P.A. Soeter, huisarts (ma, di, wo, vrij)
-                            R.P. Soeter, huisarts (ma, do, vrij)<br>
-
-                        Merel Nabuurs, doktersassistente (ma, di, wo, do, vrij)
-                        Polien van der Krogt, praktijkverpleegkundige (link1) (wo, laatste do van de maand)
-                        Marijke van der Burg, praktijkondersteuner geestelijke gezondheidszorg (link2) (di)
-                        </p>
+                        <p>De praktijk is op werkdagen tussen 8:00 en 17:00 telefonisch bereikbaar op 070-3863443 voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
                     </div>
                     <!-- /.col-lg-12 -->
                 </div>
