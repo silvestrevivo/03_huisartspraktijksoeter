@@ -1,6 +1,27 @@
 h1{
 	color: rgb(123, 174, 177);
+	f/*ont-size: 50px;
+	text-shadow:5px 5px 8px #949494;;*/
 }
 nav.navbar.navbar-default.navbar-static-top{
-	background-color: rgb(123, 174, 177);
+	background-color: rgb(144, 189, 192);
+	/*border-color: rgb(144, 189, 192);
+	-moz-box-shadow: 5px 5px 17px #2b2b2b;
+	-webkit-box-shadow: 5px 5px 17px #2b2b2b;
+	box-shadow: 5px 5px 17px #2b2b2b;*/
+}
+.sidebar ul li a.active{
+	background-color: rgb(144, 189, 192);
+}
+.navbar-default.sidebar{
+	background-color: rgb(144, 189, 192);
+}
+.navbar-default .navbar-brand{
+	color: #FFF;
+}
+.navbar-default .navbar-toggle{
+	border-color: #FFF;	
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #FFF;		
 }
