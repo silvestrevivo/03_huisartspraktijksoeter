@@ -1,20 +1,69 @@
 h1{
-	color: rgb(123, 174, 177);
-	f/*ont-size: 50px;
-	text-shadow:5px 5px 8px #949494;;*/
+	color: rgb(110, 184, 206);
+/*	font-size: 50px;
+	text-shadow:5px 5px 8px #949494;*/
+	text-align: center;
 }
+h2{
+	color: rgb(110, 184, 206);
+	text-align: center;
+}
+
+.tittle{
+	margin-top: 30px;
+	background-color: rgb(100, 210, 216);
+	-moz-box-shadow: 6px 4px 5px #3d3d3d;
+	-webkit-box-shadow: 6px 4px 5px #3d3d3d;
+	box-shadow: 6px 4px 5px #3d3d3d;
+	-moz-border-radius-topleft: 30px;
+	-moz-border-radius-topright:30px;
+	-moz-border-radius-bottomleft:30px;
+	-moz-border-radius-bottomright:30px;
+	-webkit-border-top-left-radius:30px;
+	-webkit-border-top-right-radius:30px;
+	-webkit-border-bottom-left-radius:30px;
+	-webkit-border-bottom-right-radius:30px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+
+/*.container-fluid{
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin-top: 30px;
+}*/
+
+.logo{
+	float: right;
+	margin-right: 80px;
+	margin-top: 20px;
+
+}
+
+.letters{
+	margin-top: 50px;
+	width: 100%	
+}
+
+a{
+	color: white;
+}
+
 nav.navbar.navbar-default.navbar-static-top{
-	background-color: rgb(144, 189, 192);
+	background-color: rgb(110, 184, 206);
 	/*border-color: rgb(144, 189, 192);
 	-moz-box-shadow: 5px 5px 17px #2b2b2b;
 	-webkit-box-shadow: 5px 5px 17px #2b2b2b;
 	box-shadow: 5px 5px 17px #2b2b2b;*/
 }
 .sidebar ul li a.active{
-	background-color: rgb(144, 189, 192);
+	background-color: rgb(110, 184, 206);
 }
 .navbar-default.sidebar{
-	background-color: rgb(144, 189, 192);
+	background-color: rgb(110, 184, 206);
 }
 .navbar-default .navbar-brand{
 	color: #FFF;
