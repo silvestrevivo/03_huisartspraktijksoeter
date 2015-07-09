@@ -6,7 +6,7 @@ body{
 /*title*/
 
 .title{
-	margin-top: 10px;
+	margin-top: 20px;
 	background-color: white;
 	-moz-box-shadow: 5px 5px 6px #c9c9c9;
 	-webkit-box-shadow: 5px 5px 6px #c9c9c9;
@@ -23,9 +23,8 @@ body{
 	text-align: right;
 }
 .title h2.hooftitel{
-	/*color: rgb(110, 184, 206);*/
+	color: rgb(110, 184, 206);
 	/*text-shadow:2px 2px 5px #787878;*/
-	color: #E39A17;
 	font-size: 80px;
 	font-style: bold;
 	padding-left: 100px;
@@ -36,23 +35,23 @@ body{
 .logo{
 	float: left;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 5px;
 }
 
 @media(max-width: 480px) {
 	.title h1.hooftitel {
 		text-align: center;
-		color: orange;
+		color: #979797;
 		padding-left: 0px;
-		font-size: 40px;
+		font-size: 37px;
 	}
 }
 @media(max-width: 480px) {
 	.title h2.hooftitel {
 		text-align: center;
-		color: black;
+		color: rgb(110, 184, 206);
 		padding-left: 0px;
-		font-size: 40px;
+		font-size: 60px;
 	}
 }
 @media(max-width: 480px) {
@@ -221,7 +220,7 @@ p{
 
 .col-md-4{
 	text-align: center;
-	padding-bottom: 20px;
+	padding-bottom: 15px;
 }
 
 .letters{
@@ -302,6 +301,7 @@ iframe{
 	-moz-box-shadow: 0px 0px 10px #656464;
 	-webkit-box-shadow: 0px 0px 10px #656464;
 	box-shadow: 0px 0px 10px #656464;
+	margin-bottom: 20px;
 }
 
 /*Geschiedenis*/
