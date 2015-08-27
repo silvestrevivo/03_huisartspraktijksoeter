@@ -6,4 +6,31 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/praktijkinfo.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/medewerkers.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/route.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/inschrijven.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/thuisarts.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/geschiedenis.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/stempels.html</loc>
+</url>
+<url>
+  <loc>http://www.huisartspraktijksoeter.nl/route.pdf</loc>
+</url>
 </urlset>
