@@ -1,58 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
-    <title>Huisartspraktijk Soeter - Voorburg</title>
-    <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Peter&Roelof Soeter">
-    <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
-    <meta name="author" content="@silvestrevivo, uonsite.nl">
-    <link rel="shortcut icon" type="image/x-icon" href="img/logo.png">
-    <meta name="generator" content="MaterializeCSS">
+<?php
+    $current_page = 'index';
+ ?>
 
-    <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/soeter.css">
-    
-  </head>
+<!doctype html>
+<html lang="nl" prefix="og: http://ogp.me/ns#">
+    <head>
+        <?php include 'includes/head.php'; ?>
 
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Peter&amp;Roelof Soeter">
+        <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
-    ga('create', 'UA-65328350-1', 'auto');
-    ga('send', 'pageview');
+        <meta property="og:title" content="Huisartspraktijk Soeter - Voorburg" />
+        <meta property="og:url" content="http://huisartspraktijksoeter.nl" />
 
-  </script>
+        <title>Huisartspraktijk Soeter - Voorburg</title>
+
+        <?php include 'includes/styles.php' ?>
+    </head>
 
   <body class="#f5f5f5 grey lighten-4">
-    <nav class="#4dd0e1 cyan lighten-1">
-      <ul id="slide-out" class="side-nav fixed #80deea cyan lighten-3">
-        <li class="adres">
-          <div class="adresbinnen z-depth-1 hoverable ">
-            <address>
-              <h6 style="font-weight:200;margin-left: 5px">Medisch Centrum Oud Voorburg</h6>
-              <h6 style="margin-left: 5px;font-weight:200;">Raadhuisstraat 49</h6>
-              <h6 style="margin-left: 5px;font-weight:200;">2271 DG Voorburg</h6>
-              <a href="tel:+31703863443"class="fa fa-phone" style="font-weight:300;"><i class="tiny material-icons">phone</i> 070-3863443 </a>
-            </address>
-          </div>
-        </li>
-        <li class="active"><a class="waves-effect waves-teal" href="index.html"><i class="tiny material-icons">games</i> Praktijk Info</a></li>
-        <li><a class="waves-effect waves-teal" href="medewerkers.html"><i class="tiny material-icons">supervisor_account</i> Medewerkers</a></li>
-        <li><a class="waves-effect waves-teal" href="route.html"><i class="tiny material-icons">polymer</i> Route</a></li>
-        <li><a class="waves-effect waves-teal" href="inschrijven.html"><i class="tiny material-icons">phone</i> Inschrijven Patiënt</a></li>
-        <li><a class="waves-effect waves-teal" href="thuisarts.html"><i class="tiny material-icons">location_on</i> thuisarts.nl</a></li>
-        <li><a class="waves-effect waves-teal" href="geschiedenis.html"><i class="tiny material-icons">perm_identity</i> Geschiedenis</a></li>
-        <li><a class="waves-effect waves-teal" href="stempels.html"><i class="tiny material-icons">android</i> Stempels</a></li>
-      </ul>
-      <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-    </nav>
-
+    <?php include 'includes/nav.php'; ?>
     <header>
       <div id="titel" class="container hoverable">
         <div class="row">
@@ -70,7 +37,7 @@
             <img class="logo" src="img/LogoSoeter.jpg" alt="LogoSoeter">
           </div>
         </div>
-      </div>     
+      </div>
     </header>
 
     <main>
@@ -79,7 +46,7 @@
         <div class="divider"></div>
           <div class="row">
             <div class="grid-example col s12 m12 l6">
-              <p>De praktijk is op werkdagen tussen <strong>8:00 en 17:00</strong> telefonisch bereikbaar op <a href="tel:+31703863443"class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
+              <p>De praktijk is op werkdagen tussen <strong>8:00 en 17:00</strong> telefonisch bereikbaar op <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
               <p><b>Huisartsen:</b></p>
               <p><em>P.A. Soeter, huisarts</em> (ma, di, wo, vrij)</p>
               <p><em>R.P. Soeter, huisarts</em> (ma, di, do, vrij)</p>
@@ -87,7 +54,7 @@
               <p><strong>7:30-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
               <p><b>Telefonisch spreekuur:</b></p>
-              <p><strong>11:45-12:15</strong> Voor korte vragen en lab uitslagen belt u <a href="tel:+31703863443"class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>, de assistente verbindt u door aan de huisarts.</p>
+              <p><strong>11:45-12:15</strong> Voor korte vragen en lab uitslagen belt u <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>, de assistente verbindt u door aan de huisarts.</p>
               <p><b>Visites:</b></p>
               <p>Dagelijks volgens planning. Bij voorkeur belt u vroeg in de ochtend om een visite aan te vragen.</p>
               <p><b>Recepten:</b></p>
@@ -115,7 +82,7 @@
         <h4>English</h4>
         <div class="container">
           <div class="col s12 m6 l6">
-            <p>The practice is available on weekdays between <strong>8:00 and 17:00</strong> by phone at <a href="tel:+31703863443"class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a> for questions to the assistant and to make appointments. For urgent cases only choose right after you called "option 1". The emergency line is answered immediately.</p>
+            <p>The practice is available on weekdays between <strong>8:00 and 17:00</strong> by phone at <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a> for questions to the assistant and to make appointments. For urgent cases only choose right after you called "option 1". The emergency line is answered immediately.</p>
             <p><b>General Practitioners:</b></p>
             <p><em>P.A. Soeter, General Practitioner </em> (mo, tu, we, fr)</p>
             <p><em>R.P. Soeter, General Practitioner </em> (mo, th, fr)</p>
@@ -148,27 +115,11 @@
       </div>
     </div>
 
-    <footer class="page-footer" style="padding-top: 0px;">
-      <div class="footer-copyright #b2ebf2 cyan lighten-4">
-        <div class="container #0097a7 cyan-text darken-4">
-        © 2015 Copyright Huispraktijk Soeter
-        <span class="right">Powered by<a class="#0097a7 cyan-text darken-4 right" href="http://www.uonsite.nl" target="_blank">-uonsite.nl</a></span>
-        </div>
-      </div>
-    </footer>
-            
+    <?php
+        include 'includes/footer.php';
+        include 'includes/scripts.php';
+        include 'includes/tracking_code.php';
+     ?>
 
-    <!--Import jQuery before materialize.js-->
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/materialize.min.js"></script>
-
-    <script type="text/javascript">
-        $(document).ready(function(){
-              $(".button-collapse").sideNav();
-              $("#titel").fadeIn(2500);
-              $('.modal-trigger').leanModal();
-          });
-    </script>
-    
   </body>
 </html>

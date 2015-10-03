@@ -1,59 +1,26 @@
-<!DOCTYPE html>
-  <html lang="en">
+<?php
+    $current_page = 'medewerkers';
+ ?>
+
+<!doctype html>
+<html lang="nl" prefix="og: http://ogp.me/ns#">
     <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
-      <title>Medewerkers - Huisartspraktijk Soeter</title>
-      <meta name="description" content="Over huisartspraktijkmedewerkers">
-      <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
-      <meta name="author" content="@silvestrevivo, uonsite.nl">
-      <link rel="shortcut icon" type="image/x-icon" href="img/logo.png">
-      <meta name="generator" content="MaterializeCSS">
+        <?php include 'includes/head.php'; ?>
 
+        <?php //TODO@silvestre: description is to short ?>
+        <meta name="description" content="Over huisartspraktijkmedewerkers">
+        <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
-      <!--Import materialize.css-->
-      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="css/soeter.css">
+        <meta property="og:title" content="Medewerkers - Huisartspraktijk Soeter" />
+        <meta property="og:url" content="http://huisartspraktijksoeter.nl/medewerkers" />
 
+        <title>Medewerkers - Huisartspraktijk Soeter</title>
+
+        <?php include 'includes/styles.php' ?>
     </head>
 
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-65328350-1', 'auto');
-      ga('send', 'pageview');
-
-    </script>
-
     <body>
-      <nav class="#4dd0e1 cyan lighten-1">
-        <ul id="slide-out" class="side-nav fixed #80deea cyan lighten-3">
-          <li class="adres">
-          <div class="adresbinnen z-depth-1 hoverable ">
-              <address>
-                <h6>Medisch Centrum Oud Voorburg</h6>
-                <h6 style="margin-left: 15px;font-weight:300;">Raadhuisstraat 49</h6>
-                <h6 style="margin-left: 15px;font-weight:300;">2271 DG Voorburg</h6>
-                <a href="tel:+31703863443"class="fa fa-phone" style="font-weight:300;"><i class="tiny material-icons">phone</i> 070-3863443 </a>
-              </address>
-            </div>
-          </li>
-          <li><a class="waves-effect waves-teal" href="index.html"><i class="tiny material-icons">games</i> Praktijk Info</a></li>
-          <li class="active"><a class="waves-effect waves-teal" href="medewerkers.html"><i class="tiny material-icons">supervisor_account</i> Medewerkers</a></li>
-          <li><a class="waves-effect waves-teal" href="route.html"><i class="tiny material-icons">polymer</i> Route</a></li>
-          <li><a class="waves-effect waves-teal" href="inschrijven.html"><i class="tiny material-icons">phone</i> Inschrijven Patiënt</a></li>
-          <li><a class="waves-effect waves-teal" href="thuisarts.html"><i class="tiny material-icons">location_on</i> thuisarts.nl</a></li>
-          <li><a class="waves-effect waves-teal" href="geschiedenis.html"><i class="tiny material-icons">perm_identity</i> Geschiedenis</a></li>
-          <li><a class="waves-effect waves-teal" href="stempels.html"><i class="tiny material-icons">android</i> Stempels</a></li>
-        </ul>
-        <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-      </nav>
-
+        <?php include 'includes/nav.php'; ?>
       <main>
         <div class="container" style="display: none;">
           <h4 class="#4dd0e1 cyan-text lighten-1">Medewerkers</h4>
@@ -95,15 +62,6 @@
         </div>
       </main>
 
-      <footer class="page-footer" style="padding-top: 0px;">
-        <div class="footer-copyright #b2ebf2 cyan lighten-4">
-          <div class="container #0097a7 cyan-text darken-4">
-          © 2015 Copyright Huispraktijk Soeter
-          <span class="right">Powered by<a class="#0097a7 cyan-text darken-4 right" href="http://www.uonsite.nl" target="_blank">-uonsite.nl</a></span>
-          </div>
-        </div>
-      </footer>
-
       <div id="modal1" class="modal modal-fixed-footer">
         <div class="modal-content">
           <H5>Praktijkverpleegkundige</H5>
@@ -136,20 +94,19 @@
         </div>
       </div>
 
+        <?php
+            include 'includes/footer.php';
+            include 'includes/scripts.php';
+            include 'includes/tracking_code.php';
+         ?>
 
-      <!--Import jQuery before materialize.js-->
-      <script type="text/javascript" src="js/jquery.js"></script>
-      <script type="text/javascript" src="js/materialize.min.js"></script>
+        <?php //TODO ?>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                  // DRY
+                  $(".container").fadeIn(1500);
+              });
+        </script>
 
-      <script type="text/javascript">
-          $(document).ready(function(){
-                $(".button-collapse").sideNav();
-                $(document).ready(function() {
-                    $(".container").fadeIn(1500);
-                $('.modal-trigger').leanModal();
-                });
-            });
-      </script>
-      
     </body>
   </html>
