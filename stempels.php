@@ -27,11 +27,11 @@
           <div class="row" style="margin-top:20px;">
             <div class="col s12 m6 l6">
             <h5 class="#37474f blue-grey-text darken-3 kinderen">Na het consult zijn kinderen altijd erg blij met een stempel op hun hand</h5>
-            <img class="responsive-img hoverable" src="img/Stempel05.jpg" alt="Stempels" style="margin-bottom:5px;">
-            <img class="responsive-img z-depth-1 hoverable" src="img/Stempels01.jpg" alt="Stempels" style="margin-bottom:20px;">
+            <img class="responsive-img hoverable" src="/assets/img/Stempel05.jpg" alt="Stempels" style="margin-bottom:5px;">
+            <img class="responsive-img z-depth-1 hoverable" src="/assets/img/Stempels01.jpg" alt="Stempels" style="margin-bottom:20px;">
           </div>
           <div class="col s12 m6 l6">
-            <img class="responsive-img z-depth-1 hoverable" src="img/Stempels.jpg" alt="Stempels" style="margin-bottom:10px;margin-top:10px;">
+            <img class="responsive-img z-depth-1 hoverable" src="/assets/img/Stempels.jpg" alt="Stempels" style="margin-bottom:10px;margin-top:10px;">
           </div>
           </div>
         </div>

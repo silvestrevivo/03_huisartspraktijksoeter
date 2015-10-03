@@ -27,34 +27,34 @@
           <div class="divider"></div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="img/PeterSoeter.jpg" alt="Peter Soeter">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
               <h6 class="center-align">P.A. Soeter | huisarts <br><em>(ma, di, wo, vrij)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="img/RoelofSoeter.jpg" alt="Roelof Soeter">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/RoelofSoeter.jpg" alt="Roelof Soeter">
               <h6 class="center-align">R.P. Soeter | huisarts<br> <em>(ma, di, do, vrij)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="img/MerelNabuurs.jpg" alt="Merel Nabuurs">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/MerelNabuurs.jpg" alt="Merel Nabuurs">
               <h6 class="center-align">Merel Nabuurs <br> doktersassistente <br> <em>(ma, di, wo, do, vrij)</em></h6>
             </div>
           </div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="img/KristelSoet.jpg" alt="Kristel Soet">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/KristelSoet.jpg" alt="Kristel Soet">
               <h6 class="center-align">Kristel Soet | doktersassistente</h6>
             </div>
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="img/PolienvanderKrogt.jpg" alt="Polien van der Krogt">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/PolienvanderKrogt.jpg" alt="Polien van der Krogt">
               <h6 class="center-align" style="line-height: 130%">Polien van der Krogt <br><a class="modal-trigger"href="#modal1" style="color:#4dd0e1;">praktijkverpleegkundige</a><br><em>(wo, laatste do van de maand)</em>
             </div>
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="img/MarijkevanderBurg.jpg" alt="Marijke van der Burg">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/MarijkevanderBurg.jpg" alt="Marijke van der Burg">
               <h6 class="center-align" style="line-height: 130%">Marijke van der Burg <br><a class="modal-trigger" href="#modal2" style="color:#4dd0e1;">praktijkondersteuner geestelijke gezondheidszorg</a> <br><em>(di)</em></h6>
             </div>
             <div class="row" style="margin-top:20px;">
               <div class="grid-example offset-l4 offset-m4 col s12 m4 l4 offset-l4 offset-m4">
-                <img class="responsive-img circle z-depth-2" src="img/HeleenSoeter.jpg" alt="Heleen Soeter">
+                <img class="responsive-img circle z-depth-2" src="/assets/img/HeleenSoeter.jpg" alt="Heleen Soeter">
               <h6 class="center-align">Heleen Soeter | praktijkmanager</h6>
               </div>
             </div>

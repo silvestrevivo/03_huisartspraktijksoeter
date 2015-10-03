@@ -30,7 +30,7 @@
               Het is gebruikelijk dat er na inschrijving een kennismakingsgesprek plaats vindt.</p>
             </div>
             <div class="col s12 m6 l6">
-              <img class="responsive-img z-depth-2" src="img/Inschrijven.jpg" alt="Inschrijven" style="margin-top:20px;">
+              <img class="responsive-img z-depth-2" src="/assets/img/Inschrijven.jpg" alt="Inschrijven" style="margin-top:20px;">
             </div>
           </div>
         </div>

@@ -34,7 +34,7 @@
             </div>
            </div>
           <div class="col s12 m4 l4 center">
-            <img class="logo" src="img/LogoSoeter.jpg" alt="LogoSoeter">
+            <img class="logo" src="/assets/img/LogoSoeter.jpg" alt="LogoSoeter">
           </div>
         </div>
       </div>

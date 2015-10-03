@@ -35,21 +35,21 @@
             <div class="col s12 m6 l6">
               <div class="row">
                 <div class="col s6 m6 l6" style="margin-top:20px;">
-                <img class="responsive-img z-depth-1 hoverable" src="img/Huisartspraktijk03.jpg" alt="HuisartpraktijkSoeter">
+                <img class="responsive-img z-depth-1 hoverable" src="/assets/img/Huisartspraktijk03.jpg" alt="HuisartpraktijkSoeter">
                 </div>
                 <div class="col s6 m6 l6" style="margin-top:20px;">
-                  <img class="responsive-img z-depth-1 hoverable" src="img/Huisartspraktijk02.jpg" alt="HuisartpraktijkSoeter">
+                  <img class="responsive-img z-depth-1 hoverable" src="/assets/img/Huisartspraktijk02.jpg" alt="HuisartpraktijkSoeter">
                 </div>
               </div>
                 <div class="s12 m12 l12">
-                  <img class="responsive-img z-depth-1 hoverable" src="img/Huisartspraktijk01.jpg" alt="HuisartpraktijkSoeter">
-                  <img class="responsive-img z-depth-2 foto1" src="img/huisartsgebouwsoeter.jpg" alt="HuisartpraktijkSoeter" style="margin-top:20px;">
+                  <img class="responsive-img z-depth-1 hoverable" src="/assets/img/Huisartspraktijk01.jpg" alt="HuisartpraktijkSoeter">
+                  <img class="responsive-img z-depth-2 foto1" src="/assets/img/huisartsgebouwsoeter.jpg" alt="HuisartpraktijkSoeter" style="margin-top:20px;">
                 </div>
             </div>
           </div>
           <div class="row foto2">
             <div class="col s12 m12 l12">
-              <img class="responsive-img z-depth-2" src="img/huisartsgebouwsoeter.jpg" alt="HuisartpraktijkSoeter">
+              <img class="responsive-img z-depth-2" src="/assets/img/huisartsgebouwsoeter.jpg" alt="HuisartpraktijkSoeter">
             </div>
           </div>
         </div>
