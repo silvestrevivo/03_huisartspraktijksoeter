@@ -10,8 +10,10 @@
         <meta name="description" content="De huisarts zal u verdere instructies geven over de inschrijving">
         <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
-        <meta property="og:title" content="Inschrijven - Huisartspraktijk Soeter" />
-        <meta property="og:url" content="http://huisartspraktijksoeter.nl/inschrijven" />
+        <meta name="dc.description" content="Inschrijven - Huisartspraktijk Soeter">
+
+        <meta property="og:title" content="Inschrijven - Huisartspraktijk Soeter">
+        <meta property="og:url" content="http://huisartspraktijksoeter.nl/inschrijven">
 
         <title>Inschrijven - Huisartspraktijk Soeter</title>
 

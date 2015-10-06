@@ -10,8 +10,10 @@
         <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Peter&amp;Roelof Soeter">
         <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
-        <meta property="og:title" content="Huisartspraktijk Soeter - Voorburg" />
-        <meta property="og:url" content="http://huisartspraktijksoeter.nl" />
+        <meta name="dc.description" content="Huisartspraktijk Soeter - Voorburg">
+
+        <meta property="og:title" content="Huisartspraktijk Soeter - Voorburg">
+        <meta property="og:url" content="http://huisartspraktijksoeter.nl">
 
         <title>Huisartspraktijk Soeter - Voorburg</title>
 

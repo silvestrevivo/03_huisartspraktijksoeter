@@ -10,8 +10,10 @@
         <meta name="description" content="Na het consult zijn kinderen altijd erg blij met een stempel op hun hand">
         <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
-        <meta property="og:title" content="Stempels - Huisartspraktijk Soeter" />
-        <meta property="og:url" content="http://huisartspraktijksoeter.nl/stempels" />
+        <meta name="dc.description" content="Stempels - Huisartspraktijk Soeter">
+
+        <meta property="og:title" content="Stempels - Huisartspraktijk Soeter">
+        <meta property="og:url" content="http://huisartspraktijksoeter.nl/stempels">
 
         <title>Stempels - Huisartspraktijk Soeter</title>
 

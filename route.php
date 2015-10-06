@@ -11,8 +11,10 @@
         <meta name="description" content="Route en verbinding naar de huisartspraktijk">
         <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
-        <meta property="og:title" content="Route - Huisartspraktijk Soeter" />
-        <meta property="og:url" content="http://huisartspraktijksoeter.nl/route" />
+        <meta name="dc.description" content="Route - Huisartspraktijk Soeter">
+
+        <meta property="og:title" content="Route - Huisartspraktijk Soeter">
+        <meta property="og:url" content="http://huisartspraktijksoeter.nl/route">
 
         <title>Route - Huisartspraktijk Soeter</title>
 
