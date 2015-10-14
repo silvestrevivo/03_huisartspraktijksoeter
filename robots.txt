@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /assets/
-Disallow: /uploads/
 Disallow: /stats/
-Disallow: /README.md/
+Disallow: /README.md
 
 Sitemap: http://www.huisartspraktijksoeter.nl/sitemap.xml
