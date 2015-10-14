@@ -23,7 +23,6 @@
 
 <meta name="author" content="Silvestre Vivo, uonsite.nl">
 
-<meta name="revisit-after" content="7 days">
 <meta name="robots" content="index, follow">
 
 <link rel="canonical" href="http://huisartspraktijksoeter.nl">
