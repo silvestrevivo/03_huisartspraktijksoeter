@@ -214,3 +214,7 @@ Side-Nav backgroundcolor #80deea cyan lighten-3*/
  	-ms-transition:all 10s ease-out;
  	transition:all 10s ease-out
  }*/
+
+
+/* Styles to IE10. See scripts.php */
+html[data-useragent*='MSIE 10.0'] #slide-out > li > a.waves-effect .material-icons { display:none; }
