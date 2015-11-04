@@ -3,8 +3,12 @@
 
 <script type="text/javascript">
     $(document).ready(function(){
-          $(".button-collapse").sideNav();
-          $("#titel").fadeIn(2500);
-          $('.modal-trigger').leanModal();
+        // Add userAgent to html tag
+        var doc = document.documentElement;
+        doc.setAttribute('data-useragent', navigator.userAgent);
+
+        $(".button-collapse").sideNav();
+        $("#titel").fadeIn(2500);
+        $('.modal-trigger').leanModal();
       });
 </script>
