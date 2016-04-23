@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/medewerkers.html</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/route.html</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/inschrijven.html</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/thuisarts.html</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/geschiedenis.html</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/stempels.html</loc>
-</url>
-<url>
-  <loc>http://www.huisartspraktijksoeter.nl/route.pdf</loc>
-</url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/medewerkers</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/route</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/inschrijven</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/thuisarts</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/geschiedenis</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/stempels</loc></url>
+    <url><loc>http://www.huisartspraktijksoeter.nl/uploads/route.pdf</loc></url>
 </urlset>

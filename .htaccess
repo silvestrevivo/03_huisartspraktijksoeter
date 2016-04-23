@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{HTTP_HOST} ^www.huisartspraktijksoeter.nl
+    RewriteRule ^(.*)$ http://huisartspraktijksoeter.nl/$1 [R=301,L]
+
+    #RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    #remove .php extension from url
+    RewriteRule ^([^.]+)$ $1.php
+    RewriteRule ^([^/]+)/([^/]+)/$ /$1/$2.php
+    #remove .html extension from url
+    RewriteRule ^([^\.]+)$ $1.html [NC,L]
+</IfModule>
