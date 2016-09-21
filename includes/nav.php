@@ -1,4 +1,5 @@
-<nav class="#4dd0e1 cyan lighten-1" itemscope itemtype="http://schema.org/SiteNavigationElement">>
+<nav class="#4dd0e1 cyan lighten-1" itemscope itemtype="http://schema.org/SiteNavigationElement">
+  <a class="waves-effect cyan darken-1 btn modal-trigger" href="#modal2" id="video">Video</a>
   <ul id="slide-out" class="side-nav fixed #80deea cyan lighten-3">
     <li class="adres">
       <div class="adresbinnen z-depth-1 hoverable ">

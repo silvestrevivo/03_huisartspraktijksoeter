@@ -36,7 +36,7 @@
             </div>
            </div>
           <div class="col s12 m4 l4 center">
-            <img class="logo" src="/assets/img/LogoSoeter.jpg" alt="LogoSoeter">
+            <img class="logo" src="/assets/img/LogoSoeter.png" alt="LogoSoeter">
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@
               <p><em>P.A. Soeter, huisarts</em> (ma, di, wo, vrij)</p>
               <p><em>R.P. Soeter, huisarts</em> (ma, di, do, vrij)</p>
               <p><b>Spreekuren:</b></p>
-              <p><strong>7:30-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
+              <p><strong>7:15-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
               <p><b>Telefonisch spreekuur:</b></p>
               <p><strong>11:45-12:15</strong> Voor korte vragen en lab uitslagen belt u <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>, de assistente verbindt u door aan de huisarts.</p>
@@ -89,7 +89,7 @@
             <p><em>P.A. Soeter, General Practitioner </em> (mo, tu, we, fr)</p>
             <p><em>R.P. Soeter, General Practitioner </em> (mo, th, fr)</p>
             <p><b>Office hours:</b></p>
-            <p><strong>7:30-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
+            <p><strong>7:15-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
             <p>From <strong>12:30</strong> by appointment.</p>
             <p><b>Telephone consultations:</b></p>
             <p><strong>11:45-12:15</strong> For short questions and lab results call <a href="tel:+31703863443"class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a>, assistant connects you to the GP</p>
@@ -117,11 +117,18 @@
       </div>
     </div>
 
+    <div id="modal2" class="modal">
+      <div class="modal-content">
+        <h4></h4>
+        <video class="responsive-video" controls>
+          <source src="/assets/video/Ervaringen met het LSP - de huisarts.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
     <?php
         include 'includes/footer.php';
         include 'includes/scripts.php';
         include 'includes/tracking_code.php';
      ?>
-
   </body>
 </html>

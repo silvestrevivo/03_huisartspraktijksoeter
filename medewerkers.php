@@ -38,13 +38,13 @@
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/MerelNabuurs.jpg" alt="Merel Nabuurs">
-              <h6 class="center-align">Merel Nabuurs <br> doktersassistente <br> <em>(ma, di, wo, do, vrij)</em></h6>
+              <h6 class="center-align">Merel Nabuurs <br> doktersassistente <br> <em>(ma, wo, do)</em></h6>
             </div>
           </div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="/assets/img/KristelSoet.jpg" alt="Kristel Soet">
-              <h6 class="center-align">Kristel Soet | doktersassistente</h6>
+              <img class="responsive-img circle z-depth-2" src="/assets/img/Doeska.jpg" alt="Kristel Soet">
+              <h6 class="center-align">Miduska Koolman <br> doktersassistente <br> <em>(di, vrij)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/PolienvanderKrogt.jpg" alt="Polien van der Krogt">
