@@ -116,15 +116,7 @@
         <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
       </div>
     </div>
-
-    <div id="modal2" class="modal">
-      <div class="modal-content">
-        <h4></h4>
-        <video class="responsive-video" controls>
-          <source src="/assets/video/Ervaringen met het LSP - de huisarts.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
+    
     <?php
         include 'includes/footer.php';
         include 'includes/scripts.php';

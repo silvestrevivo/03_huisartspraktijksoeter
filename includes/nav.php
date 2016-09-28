@@ -1,5 +1,5 @@
 <nav class="#4dd0e1 cyan lighten-1" itemscope itemtype="http://schema.org/SiteNavigationElement">
-  <a class="waves-effect cyan darken-1 btn modal-trigger" href="#modal2" id="video">Video</a>
+  <a class="waves-effect cyan darken-1 btn modal-trigger" href="#modalvideo" id="video">Video</a>
   <ul id="slide-out" class="side-nav fixed #80deea cyan lighten-3">
     <li class="adres">
       <div class="adresbinnen z-depth-1 hoverable ">
@@ -58,3 +58,11 @@
   </ul>
   <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
 </nav>
+
+<div id="modalvideo" class="modal">
+  <div class="modal-content">
+    <video class="responsive-video" controls>
+      <source src="/assets/video/Ervaringen met het LSP - de huisarts.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
