@@ -47,8 +47,8 @@
               <h6 class="center-align">Miduska Koolman <br> doktersassistente <br> <em>(di, vrij)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="/assets/img/PolienvanderKrogt.jpg" alt="Polien van der Krogt">
-              <h6 class="center-align" style="line-height: 130%">Polien van der Krogt <br><a class="modal-trigger"href="#modal1" style="color:#4dd0e1;">praktijkverpleegkundige</a><br><em>(wo, laatste do van de maand)</em>
+              <img class="responsive-img circle z-depth-2" src="/assets/img/GaudiadeLeede.jpg" alt="Gaudia de Leede">
+              <h6 class="center-align" style="line-height: 130%">Gaudia de Leede <br><a class="modal-trigger"href="#modal1" style="color:#4dd0e1;">praktijkverpleegkundige</a><br><em>(wo)</em>
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/MarijkevanderBurg.jpg" alt="Marijke van der Burg">
