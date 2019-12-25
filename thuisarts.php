@@ -28,8 +28,8 @@
           <div class="divider"></div>
           <div class="row">
             <div class="col s12 m12 l12">
-              <p>Voor betrouwbare informatie over uw gezondheid kunt u terecht op <a href="http://www.thuisarts.nl" target="_blank" style="color:#4dd0e1;">thuisarts.nl</a>. Mocht u toch nog vragen hebben, neemt u dan gerust telefonisch contact op met de assistente.</p>
-              <iframe src="http://www.thuisarts.nl" width="100%" height="400px"></iframe>
+              <p>Voor betrouwbare informatie over uw gezondheid kunt u terecht op <a href="https://www.thuisarts.nl/" target="_blank" style="color:#4dd0e1;">thuisarts.nl</a>. Mocht u toch nog vragen hebben, neemt u dan gerust telefonisch contact op met de assistente.</p>
+              <iframe src="https://www.thuisarts.nl/" width="100%" height="600px"></iframe>
             </div>
           </div>
         </div>

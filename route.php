@@ -35,7 +35,7 @@
               <a class="#4dd0e1 cyan lighten-1 waves-effect waves-light btn" href="/uploads/route.pdf">Route</a>
             </div>
             <div class="col s12 m7 l7">
-              <iframe class="z-depth-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2452.680117099776!2d4.365403000000049!3d52.06734799927284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b64b459c01ed%3A0x74fd1a754bb17cf1!2sMaatschap+Soeter+Hooijkaas!5e0!3m2!1ses!2snl!4v1434708020314" width="100%" height="450" frameborder="0" style="border:0;margin-bottom:40px;"></iframe>
+              <iframe class="z-depth-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d761.4701304137783!2d4.364581513862314!3d52.06735642709386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b64b459c01ed%3A0x74fd1a754bb17cf1!2sMaatschap%20Soeter%20Hooijkaas!5e0!3m2!1snl!2suk!4v1577139633342!5m2!1snl!2suk" width="100%" height="450" frameborder="0" style="border:0;margin-bottom:40px; margin-top: 15px;"></iframe>
             </div>
           </div>
         </div>

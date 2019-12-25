@@ -29,8 +29,8 @@
             <div class="col s12 m6 l6">
               <p class="geschiedenis">Na zijn studie geneeskunde aan de Leidsche Universiteit te hebben afgerond, vestigde dokter W.J. Soeter zich in 1952 als huisarts aan de Laan van Oostenburg te Voorburg. Het was een klassieke huisartspraktijk aan huis waarbij de doktersvrouw een belangrijke rol speelde in de praktijkvoering. Zoon P.A. Soeter besloot eveneens in Leiden geneeskunde te gaan studeren en nam in 1984 de praktijk van vader over.</p>
               <p class="geschiedenis">Onder leiding van dokter P.A. Soeter werd de praktijk sterk gemoderniseerd. Er werd geautomatiseerd, de praktijk verhuisde naar de Raadhuisstraat en er werd praktijkondersteuning in dienst genomen. Zodoende werd de praktijk geschikt gemaakt om aan de eisen van moderne huisartszorg te kunnen voldoen.<br><br>
-              Per 1 juni 2015 is (klein-) zoon R.P. Soeter  (uiteraard na studie in Leiden) als 3de generatie huisarts in de praktijk komen werken. Vader en zoon werken sindsdien nauw samen.</p>
-              <p class="geschiedenis">Het ligt in de lijn der verwachting dat dokter R.P. Soeter op termijn het stokje van dokter P.A. Soeter zal over nemen. Gezien de op handen zijnde verhoging van de pensioengerechtigde leeftijd is het niet ondenkbaar dat hij als huisarts het eeuwfeest van de praktijk zal vieren.</p>
+              Per 1 juni 2015 is (klein-) zoon R.P. Soeter  (uiteraard na studie in Leiden) als 3de generatie huisarts in de praktijk komen werken. Vader en zoon werkten 5 jaar lang nauw samen.</p>
+              <p class="geschiedenis">Op 1 januari 2020 ging dokter P.A. Soeter met pensioen en droeg met trots het praktijkhouderschap over aan dokter R.P. (Roelof) Soeter. Het is niet ondenkbaar dat onder zijn leiding de praktijk het eeuwfeest zal vieren.</p>
             </div>
             <div class="col s12 m6 l6">
               <div class="row">

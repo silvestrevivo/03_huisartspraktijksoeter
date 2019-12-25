@@ -29,37 +29,40 @@
           <div class="divider"></div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
-              <h6 class="center-align">P.A. Soeter | huisarts <br><em>(ma, di, wo, vrij)</em></h6>
-            </div>
-            <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/RoelofSoeter.jpg" alt="Roelof Soeter">
-              <h6 class="center-align">R.P. Soeter | huisarts<br> <em>(ma, di, do, vrij)</em></h6>
+              <h6 class="center-align">R.P. Soeter | huisarts<br> <em>(ma, di, wo, do, vrij)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="/assets/img/MerelNabuurs.jpg" alt="Merel Nabuurs">
-              <h6 class="center-align">Merel Nabuurs <br> doktersassistente <br> <em>(ma, wo, do)</em></h6>
+              <img class="responsive-img circle z-depth-2" src="/assets/img/NienkedeJong.jpg" alt="Nienke de Jong">
+              <h6 class="center-align">N. de Jong | huisarts<br> <em>(ma, wo, do)</em></h6>
+            </div>
+            <div class="grid-example col s12 m4 l4">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
+              <h6 class="center-align">P.A. Soeter <br><em>(inval)</em></h6>
             </div>
           </div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="/assets/img/Doeska.jpg" alt="Kristel Soet">
-              <h6 class="center-align">Miduska Koolman <br> doktersassistente <br> <em>(di, vrij)</em></h6>
+              <img class="responsive-img circle z-depth-2" src="/assets/img/Doeska.jpg" alt="Miduska Koolman">
+              <h6 class="center-align">Miduska Koolman <br> eerste assistente <br> <em>(di, vrij)</em></h6>
             </div>
+
+            <div class="grid-example col s12 m4 l4">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/MarietteVerhoef.jpg" alt="Mariette Verhoef">
+              <h6 class="center-align">Mariette Verhoef <br> doktersassistente <br> <em>(ma, di, do)</em></h6>
+            </div>
+
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/GaudiadeLeede.jpg" alt="Gaudia de Leede">
               <h6 class="center-align" style="line-height: 130%">Gaudia de Leede <br><a class="modal-trigger"href="#modal1" style="color:#4dd0e1;">praktijkverpleegkundige</a><br><em>(wo)</em>
             </div>
-            <div class="grid-example col s12 m4 l4">
+          </div>
+          <div class="row" style="margin-top:20px;">
+            <div class="grid-example offset-l4 offset-m4 col s12 m4 l4 offset-l4 offset-m4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/MarijkevanderBurg.jpg" alt="Marijke van der Burg">
-              <h6 class="center-align" style="line-height: 130%">Marijke van der Burg <br><a class="modal-trigger" href="#modal2" style="color:#4dd0e1;">praktijkondersteuner geestelijke gezondheidszorg</a> <br><em>(di)</em></h6>
+              <h6 class="center-align" style="line-height: 130%">Marijke van der Burg <br><a class="modal-trigger" href="#modal2" style="color:#4dd0e1;">praktijkondersteuner geestelijke gezondheidszorg</a> <br><em>(ma)</em></h6>
             </div>
-            <div class="row" style="margin-top:20px;">
-              <div class="grid-example offset-l4 offset-m4 col s12 m4 l4 offset-l4 offset-m4">
-                <img class="responsive-img circle z-depth-2" src="/assets/img/HeleenSoeter.jpg" alt="Heleen Soeter">
-              <h6 class="center-align">Heleen Soeter | praktijkmanager</h6>
-              </div>
-            </div>
+
           </div>
         </div>
       </main>

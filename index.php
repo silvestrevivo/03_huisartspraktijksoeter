@@ -50,8 +50,8 @@
             <div class="grid-example col s12 m12 l6">
               <p>De praktijk is op werkdagen tussen <strong>8:00 en 17:00</strong> telefonisch bereikbaar op <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
               <p><b>Huisartsen:</b></p>
-              <p><em>P.A. Soeter, huisarts</em> (ma, di, wo, vrij)</p>
-              <p><em>R.P. Soeter, huisarts</em> (ma, di, do, vrij)</p>
+              <p><em>R.P. Soeter, huisarts</em> (ma, di, wo, do, vrij)</p>
+              <p><em>N. de Jong, huisarts</em> (ma, wo, do)</p>
               <p><b>Spreekuren:</b></p>
               <p><strong>7:15-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
@@ -116,7 +116,7 @@
         <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
       </div>
     </div>
-    
+
     <?php
         include 'includes/footer.php';
         include 'includes/scripts.php';
