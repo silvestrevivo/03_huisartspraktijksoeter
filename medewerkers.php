@@ -44,7 +44,7 @@
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/Doeska.jpg" alt="Miduska Koolman">
-              <h6 class="center-align">Miduska Koolman <br> eerste assistente <br> <em>(di, vrij)</em></h6>
+              <h6 class="center-align">Miduska Koolman <br> eerste assistente <br> <em>(wo, vrij)</em></h6>
             </div>
 
             <div class="grid-example col s12 m4 l4">
