@@ -7,7 +7,7 @@
     <head>
         <?php include 'includes/head.php'; ?>
 
-        <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Peter&amp;Roelof Soeter">
+        <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Roelof Soeter &amp; N. de Jong">
         <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
         <meta name="dc.description" content="Huisartspraktijk Soeter - Voorburg">
@@ -86,8 +86,8 @@
           <div class="col s12 m6 l6">
             <p>The practice is available on weekdays between <strong>8:00 and 17:00</strong> by phone at <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a> for questions to the assistant and to make appointments. For urgent cases only choose right after you called "option 1". The emergency line is answered immediately.</p>
             <p><b>General Practitioners:</b></p>
-            <p><em>P.A. Soeter, General Practitioner </em> (mo, tu, we, fr)</p>
-            <p><em>R.P. Soeter, General Practitioner </em> (mo, th, fr)</p>
+            <p><em>R.P. Soeter, General Practitioner </em> (mo, tu, we, th, fr)</p>
+            <p><em>N. de Jong, General Practitioner </em> (mo, we, th)</p>
             <p><b>Office hours:</b></p>
             <p><strong>7:15-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
             <p>From <strong>12:30</strong> by appointment.</p>
