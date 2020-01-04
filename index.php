@@ -73,7 +73,17 @@
               <br>Mocht u op een ander tijdstip het onderzoek willen laten verrichten, dan is dat geen enkel probleem. Op de achterzijde van het labformulier vindt u een overzicht van andere prikposten met openingstijden. Ook is het mogelijk om tijdens kantooruren gebruik te maken van diverse prikposten in de omliggende ziekenhuizen. Kijkt u voor een actueel overzicht van openingstijden op de website van het desbetreffende ziekenhuis.</p>
               <p><b>Fysiotherapie, oefentherapie en diëtiek:</b></p>
               <p>Op de eerste verdieping van het pand bevinden zich 2 praktijken voor fysiotherapie (praktijk Leo Lobregt en praktijk Benno Plus), een praktijk voor oefentherapie (praktijk Jort Akkermans) en een praktijk voor diëtiek en voedingsadvies (praktijk Liesbeth Smith). Desgewenst is een visitekaartje verkrijgbaar bij de assistente. Vanzelfsprekend staat het u vrij om een keuze te maken voor een andere hulpverlener in de regio.</p>
-              <button data-target="modal1" class="btn modal-trigger #4dd0e1 cyan lighten-1">ENGLISH</button>
+              <p><b>AVG:</b></p>
+              <div class="row">
+                <div class="col s6">
+                  <a style="color: #4dd0e1;" href="/uploads/privacyverklaring.pdf">privacyverklaring</a>
+                </div>
+                <div class="col s6">
+                  <a style="color: #4dd0e1; float: right;" href="/uploads/aanvraagformulier_medische_gegevens_door_patient.pdf">aanvraagformulier</a>
+                </div>
+              </div>
+              <div class="divider"></div>
+              <button data-target="modal1" class="btn modal-trigger cyan lighten-1 my-15">ENGLISH</button>
             </div>
           </div>
       </div>
