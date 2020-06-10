@@ -43,13 +43,17 @@
           </div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
-              <img class="responsive-img circle z-depth-2" src="/assets/img/Doeska.jpg" alt="Miduska Koolman">
-              <h6 class="center-align">Miduska Koolman <br> eerste assistente <br> <em>(wo, vrij)</em></h6>
+              <img class="responsive-img circle z-depth-2" src="/assets/img/AstridVrolijk.jpg" alt="Astrid Vrolijk">
+              <h6 class="center-align">Astrid Vrolijk <br> eerste assistente
+              <!-- <br> <em>(wo, vrij)</em> -->
+              </h6>
             </div>
 
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/MarietteVerhoef.jpg" alt="Mariette Verhoef">
-              <h6 class="center-align">Mariette Verhoef <br> doktersassistente <br> <em>(ma, di, do)</em></h6>
+              <h6 class="center-align">Mariette Verhoef <br> doktersassistente
+              <!-- <br> <em>(ma, di, do)</em> -->
+              </h6>
             </div>
 
             <div class="grid-example col s12 m4 l4">
