@@ -68,7 +68,7 @@
               <p><b>Vakantie van de huisarts:</b></p>
               <p>Tijdens vakanties is de praktijk gesloten. Een waarnemend huisarts is te bereiken via de dokterstelefoon. Op het bandje van het antwoordapparaat (070-3863443) hoort u hoe u de dokterstelefoon kunt bereiken.</p>
               <p><b>Bloedprikken en overig laboratorium onderzoek:</b></p>
-              <p>Op werkdagen kunt u tussen <strong>8:15-8:45</strong> bloed laten prikken op de praktijk. Ook kan materiaal (urine, ontlasting) worden ingeleverd voor onderzoek. Geeft u uw labformulier af bij de assistente, u zult dan zo spoedig mogelijk worden geholpen.<br>
+              <p>Op werkdagen kunt u tussen <strong>9:00-9:30</strong> bloed laten prikken op de praktijk. Ook kan materiaal (urine, ontlasting) worden ingeleverd voor onderzoek. Geeft u uw labformulier af bij de assistente, u zult dan zo spoedig mogelijk worden geholpen.<br>
 
               <br>Mocht u op een ander tijdstip het onderzoek willen laten verrichten, dan is dat geen enkel probleem. Op de achterzijde van het labformulier vindt u een overzicht van andere prikposten met openingstijden. Ook is het mogelijk om tijdens kantooruren gebruik te maken van diverse prikposten in de omliggende ziekenhuizen. Kijkt u voor een actueel overzicht van openingstijden op de website van het desbetreffende ziekenhuis.</p>
               <p><b>Fysiotherapie, oefentherapie en diëtiek:</b></p>
