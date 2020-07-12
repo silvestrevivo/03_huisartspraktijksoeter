@@ -66,7 +66,10 @@
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p>Tijdens vakanties is de praktijk gesloten. Een waarnemend huisarts is te bereiken via de dokterstelefoon. Op het bandje van het antwoordapparaat (070-3863443) hoort u hoe u de dokterstelefoon kunt bereiken.</p>
+              <p><em>Zomervakantie:</em> maandag 10 augustus tot en met vrijdag 28 augustus</p>
+              <p><em>Herfstvakantie:</em> maandag 2 november tot en met vrijdag 6 november</p>
+              <p><em>Kerstvakantie:</em> vrijdag 25 december tot en met vrijdag 1 januari</p>
+              <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
               <p><b>Bloedprikken en overig laboratorium onderzoek:</b></p>
               <p>Op werkdagen kunt u tussen <strong>9:00-9:30</strong> bloed laten prikken op de praktijk. Ook kan materiaal (urine, ontlasting) worden ingeleverd voor onderzoek. Geeft u uw labformulier af bij de assistente, u zult dan zo spoedig mogelijk worden geholpen.<br>
 
