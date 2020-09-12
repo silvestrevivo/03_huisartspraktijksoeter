@@ -1,24 +1,28 @@
 /*Fonts*/
 @font-face {
-  font-family: 'Material Icons';
+  font-family: "Material Icons";
   font-style: normal;
   font-weight: 400;
   src: url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5SQZRqoBW5Q4K_a7BOZJO20.eot"); /* For IE6-8 */
-  src: local('Material Icons'),
-       local('MaterialIcons-Regular'),
-       url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5SQZRqoBW5Q4K_a7BOZJO20.eot?#iefix") format("embedded-opentype"),
-       url('/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2') format('woff2'),
-       url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5ewrjPiaoEww8AihgqWRJAo.woff") format("woff"),
-       url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5StnKWgpfO2iSkLzTz-AABg.ttf") format("truetype");
+  src: local("Material Icons"), local("MaterialIcons-Regular"),
+    url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5SQZRqoBW5Q4K_a7BOZJO20.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2")
+      format("woff2"),
+    url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5ewrjPiaoEww8AihgqWRJAo.woff")
+      format("woff"),
+    url("/assets/font/material_icons/2fcrYFNaTjcS6g4U3t-Y5StnKWgpfO2iSkLzTz-AABg.ttf")
+      format("truetype");
 }
 
 @font-face {
   font-family: "Material-Design-Icons";
   font-weight: normal;
-  font-style: normal; }
+  font-style: normal;
+}
 
 .material-icons {
-  font-family: 'Material Icons';
+  font-family: "Material Icons";
   font-weight: normal;
   font-style: normal;
   font-size: 24px;
@@ -29,77 +33,103 @@
   white-space: nowrap;
   word-wrap: normal;
   direction: ltr;
-  -webkit-font-feature-settings: 'liga';
+  -webkit-font-feature-settings: "liga";
   -webkit-font-smoothing: antialiased;
 }
 
 /*Body*/
 
-header, main, footer {
-    padding-left: 240px;
-  }
+header,
+main,
+footer {
+  padding-left: 240px;
+}
 
-  @media only screen and (max-width : 992px) {
-    header, main, footer {
-      padding-left: 0;
-    }
+@media only screen and (max-width: 992px) {
+  header,
+  main,
+  footer {
+    padding-left: 0;
   }
+}
 
 /*Menu*/
 
-#video{
+#video {
   position: absolute;
   top: 10px;
-  right: 10px
+  right: 10px;
 }
 
-.adres{
-	height: 170px;
+.adres {
+  height: 170px;
 }
 
 .side-nav li.active {
-    background-color: #ddd;
+  background-color: #ddd;
 }
 
-.side-nav li.adres:hover{
-	background-color: #80deea;
+.side-nav li.adres:hover {
+  background-color: #80deea;
 }
 
-.adresbinnen{
-	background-color: #4dd0e1;
+.adresbinnen {
+  background-color: #4dd0e1;
 }
 
-address{
-	font-style: normal;
+address {
+  font-style: normal;
 }
 
-address h6{
-	padding-top: 10px;
-	color: #444;
-	font-size: 14px;
+address h6 {
+  padding-top: 10px;
+  color: #444;
+  font-size: 14px;
+}
+
+/* Corona message */
+#corona-message {
+  border: 3px solid #e69191;
+  padding: 10px 10px 0;
+  color: #500f0f;
+}
+
+#corona-message h4 {
+  text-align: center;
 }
 
 /*Praktijk Info*/
 
-#titel{
-	display: none;
-	margin-top: 20px;
-  background:-webkit-gradient(linear, 64% 23%, 5% 30%, from(#FFFFFF), to(#f5f5f5))
-
+#titel {
+  display: none;
+  margin-top: 20px;
+  background: -webkit-gradient(
+    linear,
+    64% 23%,
+    5% 30%,
+    from(#ffffff),
+    to(#f5f5f5)
+  );
 }
-@media(max-width: 480px) {
+@media (max-width: 480px) {
   #titel {
-    background:-webkit-gradient(linear, 49% 0%, 49% 33%, from(#f5f5f5), to(#FFFFFF))
+    background: -webkit-gradient(
+      linear,
+      49% 0%,
+      49% 33%,
+      from(#f5f5f5),
+      to(#ffffff)
+    );
   }
 }
 
-h1{
-	/*float: right;*/
-	margin-bottom: 0px;
-	margin-bottom: 0px;
-  text-shadow:1px 1px 2px #363636;
+h1 {
+  /*float: right;*/
+  margin-bottom: 0px;
+  margin-bottom: 0px;
+  text-shadow: 1px 1px 2px #363636;
 }
-.logo{
+.logo {
   margin-top: 30px;
   width: 75%;
 }
@@ -108,59 +138,57 @@ h1{
   margin-top: 15px;
 }
 
-@media(max-width: 1024px) {
+@media (max-width: 1024px) {
   h1 {
     font-size: 50px;
   }
 }
-@media(max-width: 480px) {
+@media (max-width: 480px) {
   h1 {
     font-size: 38px;
   }
 }
-@media(min-width: 480px) {
+@media (min-width: 480px) {
   h1 {
     float: right;
   }
 }
-@media(max-width: 1024px) {
+@media (max-width: 1024px) {
   .logo {
     margin-top: 40px;
   }
 }
-@media(max-width: 768px) {
+@media (max-width: 768px) {
   .logo {
     margin-top: 20px;
   }
 }
-@media(max-width: 480px) {
+@media (max-width: 480px) {
   .logo {
     margin-top: 10px;
     margin-bottom: 10px;
     width: 70%;
   }
 }
-@media(max-width: 480px) {
+@media (max-width: 480px) {
   .center {
     text-align: center;
   }
 }
 
-
-
 /*Geschiedenis*/
 
-.geschiedenis{
+.geschiedenis {
   text-align: justify;
 }
 
-@media(min-width: 1025px) {
+@media (min-width: 1025px) {
   .foto1 {
     display: none;
   }
 }
 
-@media(max-width: 1024px) {
+@media (max-width: 1024px) {
   .foto2 {
     display: none;
   }
@@ -168,21 +196,21 @@ h1{
 
 /*Stempels*/
 
-h5{
+h5 {
   text-align: justify;
 }
 
-@media(min-width: 1024px) {
+@media (min-width: 1024px) {
   .kinderen {
     font-size: 23px;
   }
 }
-@media(max-width: 1024px) {
+@media (max-width: 1024px) {
   .kinderen {
     font-size: 17px;
   }
 }
-@media(max-width: 768px) {
+@media (max-width: 768px) {
   h5 {
     margin-bottom: 40px;
   }
@@ -191,14 +219,14 @@ h5{
 /*Footer*/
 
 body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
 
-  main {
-    flex: 1 0 auto;
-  }
+main {
+  flex: 1 0 auto;
+}
 
 /*HuisStijl*/
 
@@ -225,6 +253,11 @@ Side-Nav backgroundcolor #80deea cyan lighten-3*/
  	transition:all 10s ease-out
  }*/
 
-
 /* Styles to IE10. See scripts.php */
-html[data-useragent*='MSIE 10.0'] #slide-out > li > a.waves-effect .material-icons { display:none; }
+html[data-useragent*="MSIE 10.0"]
+  #slide-out
+  > li
+  > a.waves-effect
+  .material-icons {
+  display: none;
+}

@@ -44,7 +44,21 @@
 
     <main>
       <div class="container">
-          <h4 class="#4dd0e1 cyan-text lighten-1">Praktijk Info</h4>
+        <div id="corona-message">
+          <h4>BELANGRIJKE MEDEDELING!</h4>
+            <p><strong>De praktijk is van 14 tot en met 18 september gesloten.</strong></p>
+            <p>Mijn vrouw is besmet met het Coronavirus. Zelf heb ik nooit klachten gehad. Mijn Coronatest was
+            negatief. Ik ben vorige week niet thuis geweest om besmetting bij mijzelf te voorkomen. Er is dus
+            geen risico geweest dat mensen via mij besmet zijn geraakt.</p>
+            <p>Helaas is mijn vrouw zieker geworden en heeft zij meer ondersteuning nodig. Ik ben nu dus thuis en zit in thuisisolatie met mijn gezin. De Groep Voorburgse Huisartsen zal waarnemen. Ik zal tijdens
+            kantooruren telefonisch bereikbaar blijven voor overleg. U kunt hiervoor het normale praktijknummer (070-3863443) bellen. Indien noodzakelijk kan ik u in contact brengen met een
+            waarnemend collega.</p>
+            <p>Mochten zich geen veranderingen voordoen dan zal de praktijk <strong>op 21 september weer open zijn.</strong></p>
+            <p>Excuses voor het ongemak, ik vind dit oprecht heel vervelend maar het is even niet anders.</p>
+            <p>Vriendelijke groet,</p>
+            <p>Roelof Soeter</p><br>
+        </div>
+        <h4 class="#4dd0e1 cyan-text lighten-1">Praktijk Info</h4>
         <div class="divider"></div>
           <div class="row">
             <div class="grid-example col s12 m12 l6">
