@@ -44,7 +44,7 @@
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/AstridVrolijk.jpg" alt="Astrid Vrolijk">
-              <h6 class="center-align" style="line-height: 130%">Astrid Vrolijk <br> eerste assistente
+              <h6 class="center-align" style="line-height: 130%">Astrid Vrolijk <br> doktersassistente
               <!-- <br> <em>(wo, vrij)</em> -->
               </h6>
             </div>

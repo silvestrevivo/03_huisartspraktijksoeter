@@ -70,6 +70,7 @@
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
               <p><em>Voorjaarsvakantie:</em> maandag 1 maart tot en met vrijdag 5 maart</p>
+              <p><em>Lentevakantie:</em> maandag 26 april tot en met vrijdag 30 april</p>
               <p><em>Zomervakantie:</em> maandag 19 juli tot en met vrijdag 6 augustus</p>
               <p><em>Kerstvakantie:</em> vrijdag 1 januari tot en met vrijdag 8 januari</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
@@ -115,6 +116,7 @@
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
             <p><em>Spring vacation:</em> Monday March 1 to Friday March 5</p>
+            <p><em>Spring vacation:</em> Monday April 26 to Friday April 30</p>
             <p><em>Summer vacation:</em> Monday July 19 to Friday August 6</p>
             <p><em>Christmas vacation:</em> Friday January 1 to Friday January 8</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
