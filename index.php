@@ -69,11 +69,11 @@
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p><em>Voorjaarsvakantie:</em> maandag 1 maart tot en met vrijdag 5 maart</p>
-              <p><em>Lentevakantie:</em> maandag 26 april tot en met vrijdag 30 april</p>
-              <p><em>Zomervakantie:</em> maandag 19 juli tot en met vrijdag 6 augustus</p>
-              <p><em>Kerstvakantie:</em> vrijdag 1 januari tot en met vrijdag 8 januari</p>
+              <p><em>Leids ontzet:</em> maandag 4 oktober</p>
+              <p><em>Herfstvakantie:</em> maandag 1 november tot en met vrijdag 5 november</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
+              <p><b>Griepprik:</b></p>
+              <p>Vanaf dinsdag 9 november kunt u dagelijks binnenlopen voor de griepprik. U hoeft hiervoor geen afspraak te maken.</p>
               <p><b>Bloedprikken en overig laboratorium onderzoek:</b></p>
               <p>Vanwege het Coronavirus is het alleen mogelijk om op afspraak bloed te laten prikken. Via <a href="https://afspraken.rhmdc.nl/smartappointment/" target="_blank" style="color: #0097a7;">afspraken.rhmdc.nl</a> kunt u een afspraak inplannen. U kunt ook telefonisch een afspraak maken <a href="tel:+31882604000" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i>088-260 4000</a>.</p>
               <p><b>Fysiotherapie, oefentherapie en diëtiek:</b></p>
@@ -115,11 +115,11 @@
           </div>
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
-            <p><em>Spring vacation:</em> Monday March 1 to Friday March 5</p>
-            <p><em>Spring vacation:</em> Monday April 26 to Friday April 30</p>
-            <p><em>Summer vacation:</em> Monday July 19 to Friday August 6</p>
-            <p><em>Christmas vacation:</em> Friday January 1 to Friday January 8</p>
+            <p><em>Leiden relieved:</em> Monday 4 October</p>
+            <p><em>Autumn vacation:</em> Monday 1 November to Friday 6 November</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
+            <p><b>Flu shot:</b></p>
+            <p>From Tuesday 9 November you can drop in daily for the flu shot. You do not need to make an appointment for this.</p>
             <p><b>Pricking blood and other laboratory research:</b></p>
             <p>Due to the Coronavirus, it is only possible to have blood taken by appointment. On <strong><a href="https://afspraken.rhmdc.nl/smartappointment/" target="_blank" style="font-weight:300;color: #4dd0e1;">afspraken.rhmdc.nl</a></strong> you can schedule an appointment. You can also make an appointment by phone <strong><a href="tel:+31882604000" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i>088-260 4000</a></strong>.</p>
             <p><b>Physical therapy, exercise therapy and dietetics:</b></p>
