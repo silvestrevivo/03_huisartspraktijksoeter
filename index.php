@@ -54,7 +54,8 @@
               <p>De praktijk is op werkdagen tussen <strong>8:00 en 17:00</strong> telefonisch bereikbaar op <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
               <p><b>Huisartsen:</b></p>
               <p><em>R.P. Soeter, huisarts</em> (ma, di, wo, do, vrij)</p>
-              <p><em>N. de Jong, huisarts</em> (ma, do)</p>
+              <p><em>N. de Jong, huisarts</em> (ma, wo)</p>
+              <p class="grey-text text-darken-2"><em>(binnenkort gaat dokter de Jong met zwangerschapsverlof, zij zal worden vervangen door een andere vrouwelijke dokter)</em></p>
               <p><b>Spreekuren:</b></p>
               <p><strong>7:15-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
@@ -100,7 +101,8 @@
             <p>The practice is available on weekdays between <strong>8:00 and 17:00</strong> by phone at <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a> for questions to the assistant and to make appointments. For urgent cases only choose right after you called "option 1". The emergency line is answered immediately.<strong> Press 1 for emergencies only, press 2 for receptionist</strong>.</p>
             <p><b>General Practitioners:</b></p>
             <p><em>R.P. Soeter, General Practitioner </em> (mo, tu, we, th, fr)</p>
-            <p><em>N. de Jong, General Practitioner </em> (mo, th)</p>
+            <p><em>N. de Jong, General Practitioner </em> (mo, we)</p>
+            <p class="grey-text text-darken-2"><em>(Soon doctor de Jong will go on maternity leave, she will be replaced by another female doctor)</em></p>
             <p><b>Office hours:</b></p>
             <p><strong>7:15-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
             <p>From <strong>12:30</strong> by appointment.</p>

@@ -34,7 +34,7 @@
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/NienkedeJong.jpg" alt="Nienke de Jong">
-              <h6 class="center-align" style="line-height: 130%">N. de Jong | huisarts<br> <em>(ma, do)</em></h6>
+              <h6 class="center-align" style="line-height: 130%">N. de Jong | huisarts<br> <em>(ma, wo)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
