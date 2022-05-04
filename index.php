@@ -54,8 +54,8 @@
               <p>De praktijk is op werkdagen tussen <strong>8:00 en 17:00</strong> telefonisch bereikbaar op <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
               <p><b>Huisartsen:</b></p>
               <p><em>R.P. Soeter, huisarts</em> (ma, di, wo, do, vrij)</p>
-              <p><em>N. de Jong, huisarts</em> (ma, wo)</p>
-              <p class="grey-text text-darken-2"><em>(binnenkort gaat dokter de Jong met zwangerschapsverlof, zij zal worden vervangen door een andere vrouwelijke dokter)</em></p>
+              <p><em>L. Odijk, huisarts</em> (ma, wo)</p>
+              <p class="grey-text text-darken-2"><em>N. de Jong, huisarts</em> (zwangerschapsverlof)</p>
               <p><b>Spreekuren:</b></p>
               <p><strong>7:15-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
@@ -70,8 +70,8 @@
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p>maandag 3 januari tot en met vrijdag 7 januari</p>
-              <p><em>Voorjaarsvakantie:</em> maandag 28 februari tot en met vrijdag 4 maart</p>
+              <p>maandag 16 mei tot en met vrijdag 20 mei</p>
+              <p><em>Zomervakantie:</em> maandag 8 augustus tot en met vrijdag 26 augustus</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
               <p><b>Griepprik:</b></p>
               <p>Vanaf dinsdag 9 november kunt u dagelijks binnenlopen voor de griepprik. U hoeft hiervoor geen afspraak te maken.</p>
@@ -101,8 +101,8 @@
             <p>The practice is available on weekdays between <strong>8:00 and 17:00</strong> by phone at <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a> for questions to the assistant and to make appointments. For urgent cases only choose right after you called "option 1". The emergency line is answered immediately.<strong> Press 1 for emergencies only, press 2 for receptionist</strong>.</p>
             <p><b>General Practitioners:</b></p>
             <p><em>R.P. Soeter, General Practitioner </em> (mo, tu, we, th, fr)</p>
-            <p><em>N. de Jong, General Practitioner </em> (mo, we)</p>
-            <p class="grey-text text-darken-2"><em>(Soon doctor de Jong will go on maternity leave, she will be replaced by another female doctor)</em></p>
+            <p><em>L. Odijk, General Practitioner </em> (mo, we)</p>
+            <p class="grey-text text-darken-2"><em>N. de Jong, General Practitioner </em> (maternity leave)</p>
             <p><b>Office hours:</b></p>
             <p><strong>7:15-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
             <p>From <strong>12:30</strong> by appointment.</p>
@@ -117,8 +117,8 @@
           </div>
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
-            <p>Monday 3 January to Friday 7 January</p>
-            <p><em>Spring vacation:</em> Monday 28 February to Friday 4 March</p>
+            <p>Monday 16 May to Friday 20 May</p>
+            <p><em>Summer vacation:</em> Monday 8 August to Friday 26 August</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
             <p><b>Flu shot:</b></p>
             <p>From Tuesday 9 November you can drop in daily for the flu shot. You do not need to make an appointment for this.</p>

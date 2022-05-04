@@ -34,7 +34,7 @@
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/NienkedeJong.jpg" alt="Nienke de Jong">
-              <h6 class="center-align" style="line-height: 130%">N. de Jong | huisarts<br> <em>(ma, wo)</em></h6>
+              <h6 class="center-align" style="line-height: 130%">N. de Jong | huisarts<br> <em>(zwangerschapsverlof)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
@@ -62,6 +62,12 @@
             </div>
           </div>
           <div class="row">
+            <div class="grid-example col s12 m4 l4 offset-m4 offset-l4">
+              <img class="responsive-img circle z-depth-2" src="/assets/img/LOdijk.jpeg" alt="L. Odijk">
+              <h6 class="center-align" style="line-height: 130%">L. Odijk | huisarts<br> <em>(ma, wo)</em></h6>
+            </div>
+          </div>
+          <!-- <div class="row">
             <div class="grid-example offset-m2 offset-l2 col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/MarijkevanderBurg.jpg" alt="Marijke van der Burg">
               <h6 class="center-align" style="line-height: 130%">Marijke van der Burg <br><a class="modal-trigger" href="#modal2" style="color:#4dd0e1;">praktijkondersteuner geestelijke gezondheidszorg</a> <br><em>(ma)</em></h6>
@@ -70,7 +76,7 @@
               <img class="responsive-img circle z-depth-2" src="/assets/img/DidiStikkelorum.png" alt="Didi Stikkelorum">
               <h6 class="center-align" style="line-height: 130%">Didi Stikkelorum <br><a class="modal-trigger" href="#modal2" style="color:#4dd0e1;">praktijkondersteuner geestelijke gezondheidszorg</a></h6>
             </div>
-          </div>
+          </div> -->
         </div>
       </main>
 
