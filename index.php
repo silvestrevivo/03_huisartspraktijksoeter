@@ -7,7 +7,7 @@
     <head>
         <?php include 'includes/head.php'; ?>
 
-        <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Roelof Soeter &amp; N. de Jong">
+        <meta name="description" content="Huisartsenpraktijk Medisch Centrum Oud Voorburg - Raadhuisstraat 49, 2271 DG Voorburg - Tlf: 070 386 3443, Roelof Soeter">
         <meta keywords="huisartsenpraktijk voorburg, huisartspraktijk voorburg, huisartsenpraktijk voorburg centrum, huisartspraktijk voorburg centrum, huisartsenpraktijk voorburg soeter, huisartspraktijk voorburg soeter, huisartsenpraktijk voorburg centrum soeter, huisartspraktijk voorburg centrum, peter soeter huisart, roelof soeter huisart, general practitioner voorburg, general practitioner voorburg center, gp voorburg, gp voorburg center, general practitioner voorburg expats, maatschap soeter hooijkaas">
 
         <meta name="dc.description" content="Huisartspraktijk Soeter - Voorburg">
@@ -55,7 +55,6 @@
               <p><b>Huisartsen:</b></p>
               <p><em>R.P. Soeter, huisarts</em> (ma, di, wo, do, vrij)</p>
               <p><em>L. Odijk, huisarts</em> (ma, wo)</p>
-              <p class="grey-text text-darken-2"><em>N. de Jong, huisarts</em> (zwangerschapsverlof)</p>
               <p><b>Spreekuren:</b></p>
               <p><strong>7:15-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
@@ -76,7 +75,7 @@
               <p><b>Griepprik:</b></p>
               <p>Vanaf dinsdag 9 november kunt u dagelijks binnenlopen voor de griepprik. U hoeft hiervoor geen afspraak te maken.</p>
               <p><b>Bloedprikken en overig laboratorium onderzoek:</b></p>
-              <p>Vanwege het Coronavirus is het alleen mogelijk om op afspraak bloed te laten prikken. Via <a href="https://afspraken.rhmdc.nl/smartappointment/" target="_blank" style="color: #0097a7;">afspraken.rhmdc.nl</a> kunt u een afspraak inplannen. U kunt ook telefonisch een afspraak maken <a href="tel:+31882604000" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i>088-260 4000</a>.</p>
+              <p>Het laboratorium is iedere werkdag tussen <strong>8:00 en 9:00</strong> op de praktijk aanwezig. U hoeft geen afspraak te maken.</p>
               <p><b>Fysiotherapie, oefentherapie en diëtiek:</b></p>
               <p>Op de eerste verdieping van het pand bevinden zich 2 praktijken voor fysiotherapie (praktijk Leo Lobregt en praktijk Benno Plus), een praktijk voor oefentherapie (praktijk Jort Akkermans) en een praktijk voor diëtiek en voedingsadvies (praktijk Liesbeth Smith). Desgewenst is een visitekaartje verkrijgbaar bij de assistente. Vanzelfsprekend staat het u vrij om een keuze te maken voor een andere hulpverlener in de regio.</p>
               <p><b>AVG:</b></p>
@@ -102,7 +101,6 @@
             <p><b>General Practitioners:</b></p>
             <p><em>R.P. Soeter, General Practitioner </em> (mo, tu, we, th, fr)</p>
             <p><em>L. Odijk, General Practitioner </em> (mo, we)</p>
-            <p class="grey-text text-darken-2"><em>N. de Jong, General Practitioner </em> (maternity leave)</p>
             <p><b>Office hours:</b></p>
             <p><strong>7:15-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
             <p>From <strong>12:30</strong> by appointment.</p>
@@ -123,7 +121,7 @@
             <p><b>Flu shot:</b></p>
             <p>From Tuesday 9 November you can drop in daily for the flu shot. You do not need to make an appointment for this.</p>
             <p><b>Pricking blood and other laboratory research:</b></p>
-            <p>Due to the Coronavirus, it is only possible to have blood taken by appointment. On <strong><a href="https://afspraken.rhmdc.nl/smartappointment/" target="_blank" style="font-weight:300;color: #4dd0e1;">afspraken.rhmdc.nl</a></strong> you can schedule an appointment. You can also make an appointment by phone <strong><a href="tel:+31882604000" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i>088-260 4000</a></strong>.</p>
+            <p>The laboratory is avilable every working day between <strong>8:00 and 9:00</strong>. You do not have to make an appointment.</p>
             <p><b>Physical therapy, exercise therapy and dietetics:</b></p>
             <p>On the first floor of the building are two practices for physiotherapy (Leo Lobregt practice and practice Benno Plus) for a practice exercise (practice Jort Akkermans) and a practice of dietetics and nutrition (practice Liesbeth Smith). Optionally available is a business card from the assistant. Naturally, you are free to choose a different care provider in the region</p>
           </div>
