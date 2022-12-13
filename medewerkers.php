@@ -34,7 +34,7 @@
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/LOdijk.jpeg" alt="L. Odijk">
-              <h6 class="center-align" style="line-height: 130%">L. Odijk | huisarts<br> <em>(ma, wo)</em></h6>
+              <h6 class="center-align" style="line-height: 130%">L. Odijk | huisarts<br> <em>(wisselende dagen)</em></h6>
             </div>
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
