@@ -69,7 +69,8 @@
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p><em>Voorjaarsvakantie:</em> maandag 27 februari tot en met vrijdag 5 maart</p>
+              <p>28 april, praktijk gesloten</p>
+              <p><em>Zomervakantie:</em> maandag 10 juli tot en met vrijdag 28 juli</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
               <p><b>Griepprik:</b></p>
               <p>Vanaf dinsdag 10 oktober kunt u dagelijks binnenlopen voor de griepprik. U hoeft hiervoor geen afspraak te maken.</p>
@@ -114,7 +115,8 @@
           </div>
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
-            <p><em>Spring vacation:</em> Monday 27 February to Friday 5 March</p>
+            <p>28th april, we are closed</p>
+            <p><em>Summer vacation:</em> Monday 10 July till Friday 28 July</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
             <p><b>Flu shot:</b></p>
             <p>From Tuesday 10 October you can drop in daily for the flu shot. You do not need to make an appointment for this.</p>
