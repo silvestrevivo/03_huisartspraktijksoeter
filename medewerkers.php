@@ -28,15 +28,15 @@
           <h4 class="#4dd0e1 cyan-text lighten-1">Medewerkers</h4>
           <div class="divider"></div>
           <div class="row" style="margin-top:20px;">
-            <div class="grid-example col s12 m4 l4">
+            <div class="grid-example col s12 m6 l6">
               <img class="responsive-img circle z-depth-2" src="/assets/img/RoelofSoeter.jpg" alt="Roelof Soeter">
               <h6 class="center-align" style="line-height: 130%">R.P. Soeter | huisarts<br> <em>(ma, di, wo, do, vrij)</em></h6>
             </div>
-            <div class="grid-example col s12 m4 l4">
+            <!-- <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/LOdijk.jpeg" alt="L. Odijk">
               <h6 class="center-align" style="line-height: 130%">L. Odijk | huisarts<br> <em>(wisselende dagen)</em></h6>
-            </div>
-            <div class="grid-example col s12 m4 l4">
+            </div> -->
+            <div class="grid-example col s12 m6 l6">
               <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
               <h6 class="center-align" style="line-height: 130%">P.A. Soeter <br><em>(inval)</em></h6>
             </div>

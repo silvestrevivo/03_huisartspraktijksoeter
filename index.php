@@ -54,7 +54,7 @@
               <p>De praktijk is op werkdagen tussen <strong>8:00 en 17:00</strong> telefonisch bereikbaar op <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> voor vragen aan de assistente en voor het maken van afspraken. Alleen voor spoedeisende zaken kiest u direct nadat u heeft gebeld ‘optie 1’. Deze spoedlijn wordt direct beantwoord.</p>
               <p><b>Huisartsen:</b></p>
               <p><em>R.P. Soeter, huisarts</em> (ma, di, wo, do, vrij)</p>
-              <p><em>L. Odijk, huisarts</em> (wisselende dagen)</p>
+              <!-- <p><em>L. Odijk, huisarts</em> (wisselende dagen)</p> -->
               <p><b>Spreekuren:</b></p>
               <p><strong>7:15-9:00 </strong> Open spreekuur. U hoeft geen afspraak te maken.</p>
               <p>Vanaf <strong>12:30</strong> spreekuur op afspraak.</p>
@@ -69,7 +69,7 @@
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p>28 april, praktijk gesloten</p>
+              <p><em>Voorjaarsvakantie:</em> maandag 29 mei tot en met vrijdag 2 juni</p>
               <p><em>Zomervakantie:</em> maandag 10 juli tot en met vrijdag 28 juli</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
               <p><b>Griepprik:</b></p>
@@ -100,7 +100,7 @@
             <p>The practice is available on weekdays between <strong>8:00 and 17:00</strong> by phone at <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3863443 </a> for questions to the assistant and to make appointments. For urgent cases only choose right after you called "option 1". The emergency line is answered immediately.<strong> Press 1 for emergencies only, press 2 for receptionist</strong>.</p>
             <p><b>General Practitioners:</b></p>
             <p><em>R.P. Soeter, General Practitioner </em> (mo, tu, we, th, fr)</p>
-            <p><em>L. Odijk, General Practitioner </em> (changing days)</p>
+            <!-- <p><em>L. Odijk, General Practitioner </em> (changing days)</p> -->
             <p><b>Office hours:</b></p>
             <p><strong>7:15-9:00 </strong> Opened consultation hours, you need to make an appointment.</p>
             <p>From <strong>12:30</strong> by appointment.</p>
@@ -115,7 +115,7 @@
           </div>
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
-            <p>28th april, we are closed</p>
+            <p><em>May vacation:</em> Monday 29 May till Friday 2 June</p>
             <p><em>Summer vacation:</em> Monday 10 July till Friday 28 July</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
             <p><b>Flu shot:</b></p>
