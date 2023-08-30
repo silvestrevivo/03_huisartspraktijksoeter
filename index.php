@@ -69,11 +69,14 @@
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p><em>Voorjaarsvakantie:</em> maandag 29 mei tot en met vrijdag 2 juni</p>
-              <p><em>Zomervakantie:</em> maandag 10 juli tot en met vrijdag 28 juli</p>
+              <p><em>Leids ontzet:</em> dinsdag 3 oktober</p>
+              <p><em>Herfstvakantie:</em> maandag 16 oktober tot en met vrijdag 20 oktober</p>
+              <p><em>Kerstvakantie:</em> dinsdag 2 januari tot en met vrijdag 5 januari</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
               <p><b>Griepprik:</b></p>
-              <p>Vanaf dinsdag 10 oktober kunt u dagelijks binnenlopen voor de griepprik. U hoeft hiervoor geen afspraak te maken.</p>
+              <p>Van 9 tot en met 13 oktober kunt u dagelijks van 9;30 tot 11:30 en van 14:00 en 15:15 binnenlopen voor de griepprik</p>
+              <p>Van 16 tot en met 20 oktober is de praktijk gesloten</p>
+              <p>Vanaf 23 oktober kunt u wederom dagelijks van 9:30 tot 11:30 en van 14:00 en 15:15 binnenlopen voor de griepprik</p>
               <p><b>Bloedprikken en overig laboratorium onderzoek:</b></p>
               <p>Het laboratorium is iedere werkdag tussen <strong>8:00 en 9:00</strong> op de praktijk aanwezig. U hoeft geen afspraak te maken.</p>
               <p><b>Fysiotherapie, oefentherapie en diëtiek:</b></p>
@@ -115,11 +118,14 @@
           </div>
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
-            <p><em>May vacation:</em> Monday 29 May till Friday 2 June</p>
-            <p><em>Summer vacation:</em> Monday 10 July till Friday 28 July</p>
+            <p><em>Leids ontzet:</em> Tuesday 3rd October</p>
+            <p><em>Autum vacation:</em> Monday 16th October till Friday 20 October</p>
+            <p><em>Christmas vacation:</em> Tuesday 2nd January till Friday 5th January</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
             <p><b>Flu shot:</b></p>
-            <p>From Tuesday 10 October you can drop in daily for the flu shot. You do not need to make an appointment for this.</p>
+            <p>From 9 to 13 October you can walk in daily from 9:30 to 11:30 and from 14:00 and 15:15 for the flu shot</p>
+            <p>From 16 to 20 October the practice is closed</p>
+            <p>From 23 October you can walk in daily from 9:30 to 11:30 and from 14:00 and 15:15 for the flu shot</p>
             <p><b>Pricking blood and other laboratory research:</b></p>
             <p>The laboratory is avilable every working day between <strong>8:00 and 9:00</strong>. You do not have to make an appointment.</p>
             <p><b>Physical therapy, exercise therapy and dietetics:</b></p>

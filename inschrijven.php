@@ -27,9 +27,12 @@
           <h4 class="#4dd0e1 cyan-text lighten-1">Inschrijven Nieuwe Patiënt</h4>
           <div class="divider"></div>
           <div class="row">
-            <div class="col s12 m6 l6">
+            <!-- <div class="col s12 m6 l6">
               <p style="text-align:justify;">Om u als nieuwe patiënt in de praktijk aan te melden belt u tijdens het telefonisch spreekuur met <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a> <strong>(dagelijks tussen 11:45-12:15)</strong>. De huisarts zal u verdere instructies geven over de inschrijving. <br><br>
               Het is gebruikelijk dat er na inschrijving een kennismakingsgesprek plaats vindt.</p>
+            </div> -->
+            <div class="col s12 m6 l6">
+              <p style="text-align:justify;">Helaas is huisartspraktijk Soeter voorlopig gesloten voor nieuwe inschrijvingen. Nieuwgeboren gezinsleden kunnen uiteraard gewoon worden ingeschreven.</p>
             </div>
             <div class="col s12 m6 l6">
               <img class="responsive-img z-depth-2" src="/assets/img/Inschrijven.jpg" alt="Inschrijven" style="margin-top:20px;">
