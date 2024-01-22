@@ -28,7 +28,7 @@
           <h4 class="#4dd0e1 cyan-text lighten-1">Medewerkers</h4>
           <div class="divider"></div>
           <div class="row" style="margin-top:20px;">
-            <div class="grid-example col s12 m6 l6">
+            <div class="grid-example col s12 m6 offset-m3">
               <img class="responsive-img circle z-depth-2" src="/assets/img/RoelofSoeter.jpg" alt="Roelof Soeter">
               <h6 class="center-align" style="line-height: 130%">R.P. Soeter | huisarts<br> <em>(ma, di, wo, do, vrij)</em></h6>
             </div>
@@ -36,10 +36,10 @@
               <img class="responsive-img circle z-depth-2" src="/assets/img/LOdijk.jpeg" alt="L. Odijk">
               <h6 class="center-align" style="line-height: 130%">L. Odijk | huisarts<br> <em>(wisselende dagen)</em></h6>
             </div> -->
-            <div class="grid-example col s12 m6 l6">
+            <!-- <div class="grid-example col s12 m6 l6">
               <img class="responsive-img circle z-depth-2" src="/assets/img/PeterSoeter.jpg" alt="Peter Soeter">
               <h6 class="center-align" style="line-height: 130%">P.A. Soeter <br><em>(inval)</em></h6>
-            </div>
+            </div> -->
           </div>
           <div class="row" style="margin-top:20px;">
             <div class="grid-example col s12 m4 l4">
@@ -51,14 +51,20 @@
 
             <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/Mariette.png" alt="Mariette Verhoef">
-              <h6 class="center-align" style="line-height: 130%">Mariette Verhoef <br> doktersassistente
+              <h6 class="center-align" style="line-height: 130%">Mariette Verhoef <br> praktijkverpleegkundige en doktersassistente
               <!-- <br> <em>(ma, di, do)</em> -->
               </h6>
             </div>
 
-            <div class="grid-example col s12 m4 l4">
+            <!-- <div class="grid-example col s12 m4 l4">
               <img class="responsive-img circle z-depth-2" src="/assets/img/GaudiadeLeede.jpg" alt="Gaudia de Leede">
               <h6 class="center-align" style="line-height: 130%">Gaudia de Leede <br><a class="modal-trigger"href="#modal1" style="color:#4dd0e1;">praktijkverpleegkundige</a><br><em>(wo)</em>
+            </div> -->
+
+            <!-- waarnemend huisarts op wisselende dagen -->
+            <div class="grid-example col s12 m4 l4">
+            <img class="responsive-img circle z-depth-2" src="/assets/img/blank.png" alt="blank">
+              <h6 class="center-align" style="line-height: 130%">waarnemend huisarts op wisselende dagen<br>
             </div>
           </div>
         </div>

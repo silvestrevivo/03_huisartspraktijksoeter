@@ -65,13 +65,12 @@
               <p><b>Recepten:</b></p>
               <p>Herhaalrecepten zijn dagelijks tussen <strong>8:00-15:00</strong> telefonisch aan te vragen bij de assistente. Houdt u er rekening mee dat de medicatie vaak pas 1 of 2 dagen later voor u klaar ligt bij uw apotheek.</p>
               <p><b>Avond, weekend en nacht:</b></p>
-              <p>Van <strong>17:00-8:00</strong>, in het weekend en op feestdagen kunt u voor dringende gevallen bellen met de huisartspost <a href="http://www.smashaaglanden.nl" target="_blank" style="color: #0097a7;">SMASH</a>: <a href="tel:+31703469669" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3469669 </a>.</p>
+              <p>Van <strong>17:00-8:00</strong>, in het weekend en op feestdagen kunt u voor dringende gevallen bellen met de huisartspost <a href="https://www.hadoks.nl/" target="_blank" style="color: #0097a7;">HADOKS</a>: <a href="tel:+31703469669" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3469669 </a>.</p>
             </div>
             <div class="grid-example col s12 m12 l6">
               <p><b>Vakantie van de huisarts:</b></p>
-              <p><em>Leids ontzet:</em> dinsdag 3 oktober</p>
-              <p><em>Herfstvakantie:</em> maandag 16 oktober tot en met vrijdag 20 oktober</p>
-              <p><em>Kerstvakantie:</em> dinsdag 2 januari tot en met vrijdag 5 januari</p>
+              <p><em>Voorjaarsvakantie:</em> maandag 26 februari tot en met vrijdag 1 maart</p>
+              <p><em>Meivakantie:</em> maandag 29 april tot en met vrijdag 3 mei</p>
               <p>Voor medische zaken die niet tot na de vakantie kunnen wachten belt u voor waarneming het gewone praktijknummer <a href="tel:+31703863443" class="fa fa-phone" style="font-weight:300;color: #0097a7;"><i class="tiny material-icons">phone</i> 070-3863443 </a>. U krijgt dan instructies welk telefoonnummer u moet bellen voor waarneming. </p>
               <p><b>Griepprik:</b></p>
               <p>Van 9 tot en met 13 oktober kunt u dagelijks van 9;30 tot 11:30 en van 14:00 en 15:15 binnenlopen voor de griepprik</p>
@@ -114,13 +113,12 @@
             <p><b>Recipes:</b></p>
             <p>Prescription refills daily between <strong>8:00-15:00</strong> by phone to ask the assistant. Please note that the medication often only 1 or 2 days later for you is at your pharmacy.</p>
             <p><b>Evening, weekend and night:</b></p>
-            <p>From <strong>17:00-8:00</strong>, on weekends and on holidays please call for urgent cases to the GP post <a href="http://www.smashaaglanden.nl" target="_blank" style="color: #4dd0e1;">SMASH</a>: <a href="tel:+31703469669"class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3469669 </a></p>
+            <p>From <strong>17:00-8:00</strong>, on weekends and on holidays please call for urgent cases to the GP post <a href="https://www.hadoks.nl/" target="_blank" style="color: #4dd0e1;">HADOKS</a>: <a href="tel:+31703469669"class="fa fa-phone" style="font-weight:300;color: #4dd0e1;"><i class="tiny material-icons">phone</i> 070-3469669 </a></p>
           </div>
           <div class="col s12 m6 l6">
             <p><b>Holidays of general practitioner:</b></p>
-            <p><em>Leids ontzet:</em> Tuesday 3rd October</p>
-            <p><em>Autum vacation:</em> Monday 16th October till Friday 20 October</p>
-            <p><em>Christmas vacation:</em> Tuesday 2nd January till Friday 5th January</p>
+            <p><em>Spring holidays:</em> Monday 26th February till Friday 1 March</p>
+            <p><em>May holidays:</em> Monday 29th April till Friday 3rd May</p>
             <p>During holidays, the practice closed. An acting general practitioner can be reached via phone the doctor. On the tape of the answering machine (070-3863443), you will hear how to reach the doctor's phone.</p>
             <p><b>Flu shot:</b></p>
             <p>From 9 to 13 October you can walk in daily from 9:30 to 11:30 and from 14:00 and 15:15 for the flu shot</p>
